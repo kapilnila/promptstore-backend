@@ -25,7 +25,8 @@ SECRET_KEY = 'django-insecure-ak6)r4ub_l(m6)a!ft6c4i*x4a#utq!ps+@#rwb(t)k2=#3l&e
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['promptstore-backend.onrender.com', 'localhost', '127.0.0.1']
+
 
 
 # Application definition
